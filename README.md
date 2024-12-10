@@ -15,3 +15,5 @@ git add <filename> or git add . // stage || Selecting files or changes for the c
 git commit -m "some message" // commit || accepting the selected changes 
 
 git push // push || takeing the cahnge from local and making it avalible in git 
+
+dummy 
