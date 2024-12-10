@@ -16,4 +16,4 @@ git commit -m "some message" // commit || accepting the selected changes
 
 git push // push || takeing the cahnge from local and making it avalible in git 
 
-dummy 
+git pull // to get latest changes from git to local
